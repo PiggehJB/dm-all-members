@@ -16,4 +16,4 @@ my youtube
 
 # Nuke ALl Script
 Must have discord.py 1.7.3 | In version 2.0 one of the methods is going to be deprecated (removed) to install discord.py version 1.7.3 do (in cmd prompt)
-pip install discord.py==1.7.3
+`pip install discord.py==1.7.3`
