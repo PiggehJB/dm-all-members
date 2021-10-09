@@ -13,3 +13,7 @@ Piggeh#0001 (my discord)
 https://www.youtube.com/channel/UC6o8vZttsWTPlu-kxjc62_A
 
 my youtube
+
+# Nuke ALl Script
+Must have discord.py 1.7.3 | In version 2.0 one of the methods is going to be deprecated (removed) to install discord.py version 1.7.3 do (in cmd prompt)
+pip install discord.py==1.7.3
