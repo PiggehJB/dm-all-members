@@ -8,7 +8,7 @@ from colorama import Fore
 intents = discord.Intents.default()
 intents.members = True
 
-bot = commands.Bot(command_prefix="-", intents=intents, self_bot=False)
+bot = commands.Bot(command_prefix="-", intents=intents, self_bot=True)
 
 token = ""
 
