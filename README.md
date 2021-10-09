@@ -7,6 +7,7 @@ You must have discord.py installed (I'm using 1.7.3) and python installed (I'm u
 
 # Contact:
 https://piggeh.uwu.ai
+
 Piggeh#0001 (my discord)
 
 https://www.youtube.com/channel/UC6o8vZttsWTPlu-kxjc62_A
